@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Quem sou eu
 - Estudante de Ciencia da Computação
 - Buscando atuar em analisador de codigos de front-end
@@ -19,7 +20,3 @@ Pretendo criar projetos para auxiliar pessoas novatas com codigos iniciais de fr
 ## Como falar comigo
 - [Linkedln](https://www.linkedin.com/in/daniel-aguiar-3aa17322b/)
 - danferrugem892@gmail.com
-
-
-
-
