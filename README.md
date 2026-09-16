@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Quem sou eu
 - Estudante de Ciencia da Computação
 - Buscando atuar em analisador de codigos de front-end
